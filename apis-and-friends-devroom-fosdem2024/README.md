@@ -1,4 +1,6 @@
-# APIs & friends devroom FOSDEM 2024
+# APIs & friends devroom at FOSDEM 2024
+
+We are excited to announce the Call for Participation for the FOSDEM 2024 APIs and friends devroom.
 
 ## Suggested Topics
 
