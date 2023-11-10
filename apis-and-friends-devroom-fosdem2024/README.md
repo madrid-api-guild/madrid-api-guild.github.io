@@ -6,10 +6,10 @@ We are excited to announce the Call for Participation for the FOSDEM 2024 APIs a
 
 We welcome submissions about, but not limited to:
 
-- Share with us your Open Source project: tooling, frameworks, SDKs, API gateways, etc. 
+- Your Open Source project: tooling, frameworks, SDKs, API gateways, etc. 
 - API Design Principles: best practices for designing clean, efficient, and developer-friendly APIs.
+- Topics related to API standards such as OpenAPI, JSON Schema or AsyncAPI.
 - Topics related to versioning, authentication, rate limiting, and error handling.
-- API standards such as OpenAPI, JSON Schema or AsyncAPI.
 - Real-world API Use Cases
 - Developer Experience and API Documentation.
 
