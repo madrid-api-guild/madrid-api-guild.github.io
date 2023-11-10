@@ -6,9 +6,9 @@ We are excited to announce the Call for Participation for the FOSDEM 2024 APIs a
 
 We welcome submissions about, but not limited to:
 
-- Your Open Source project: tooling, frameworks, SDKs, API gateways, etc. 
-- API Design Principles: best practices for designing clean, efficient, and developer-friendly APIs.
+- Your Open Source project: tooling, frameworks, SDKs, API gateway, etc.
 - Topics related to API standards such as OpenAPI, JSON Schema or AsyncAPI.
+- API Design Principles: best practices for designing clean, efficient, and developer-friendly APIs.
 - Topics related to versioning, authentication, rate limiting, and error handling.
 - Real-world API Use Cases
 - Developer Experience and API Documentation.
@@ -38,5 +38,5 @@ recorded and to have your talk made available.
 
 ## Code of Conduct
 
-The code of conduct for FOSDEM is available at https://fosdem.org/2023/practical/conduct/
+The code of conduct for FOSDEM is available at https://fosdem.org/2024/practical/conduct/
 
